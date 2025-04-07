@@ -1,12 +1,25 @@
-# React + Vite
+# Tic Tac Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for a Tic Tac Toe game built using React, Tailwind CSS, and Vite. It features a clean and responsive design, game state management with React hooks, and a celebratory confetti animation upon victory.
 
-Currently, two official plugins are available:
+## ✨ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[**[Live Site]**]([YOUR_LIVE_WEBSITE_URL](https://naveen-xo.vercel.app/))
 
-## Expanding the ESLint configuration
+## 🕹️ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Interactive Tic Tac Toe gameplay.
+* Visual representation of the game board.
+* Turn tracking and display.
+* Winner detection and announcement.
+* Confetti animation upon winning using the `react-confetti` library.
+* Responsive design for various screen sizes using Tailwind CSS.
+* Clear game reset functionality.
+
+## 🛠️ Tech Stack
+
+* **[Vite](https://vitejs.dev/)**: A fast build tool for modern web applications.
+* **[React.js](https://react.dev/)**: A JavaScript library for building user interfaces.
+* **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development.
+* **[react-confetti](https://www.npmjs.com/package/react-confetti)**: A React component for creating confetti animations.
+
