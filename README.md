@@ -4,7 +4,7 @@ This repository contains the source code for a Tic Tac Toe game built using Reac
 
 ## ✨ Live Demo
 
-[**[Live Site]**]([YOUR_LIVE_WEBSITE_URL](https://naveen-xo.vercel.app/))
+[Live Site](https://naveen-xo.vercel.app/)
 
 ## 🕹️ Features
 
